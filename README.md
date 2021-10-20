@@ -1,5 +1,7 @@
 # tindog
 
+### https://haileyrs.github.io/tindog/
+
 ### mock website of tinder for people - tinder for dogs
 
 ### built using CSS, HTML, Bootstrap
